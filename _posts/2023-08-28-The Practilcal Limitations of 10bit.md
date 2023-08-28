@@ -1,6 +1,10 @@
 ---
 published: true
+layout: post
+slug: 10bit
+
 ---
+
 In this little blog post, I will look at the practical limitations of 10bit.
 
 When working on NTFAFP due to limitations like storage and compute power, we chose to film in ProRes 422HQ however during the DI, artifacting and a certain level of banding was visible. I will try to attach photos for reference. While mostly unnoticed during the screening, their existence raises the question about the practical limitations of 10-bit recording and if we should have gone for ProRes RAW as a recording instead.
