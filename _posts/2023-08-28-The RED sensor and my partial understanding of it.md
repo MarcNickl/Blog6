@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The RED Komodo Sensor and my conceptual understanding of it. 
 
